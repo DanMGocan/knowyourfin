@@ -1,3 +1,7 @@
+How do the big financial decisions affect the life of 10000 simulated people? 
+
+
+
 Do this for two countries, with more that can be added. 
 
 How do EBC rates affect banks across Europe and mortgage rates? What about credit demand? 
@@ -38,3 +42,10 @@ Inflation effect on prices
 How does fuel price affect taxi prices? 
 How would a tariff affect the price of something? 
 What could you afford with a minimum wage of what? 
+
+Clear DB at the end of the simulation
+Create a login but have a preset account
+Store previous simulation results 
+
+Price of food, price of energy, price of fuel, 
+The definitory thing should be starting wealth vs. final wealth
